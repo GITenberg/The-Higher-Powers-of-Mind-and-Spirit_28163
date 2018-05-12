@@ -1,0 +1,34 @@
+_repo: The-Higher-Powers-of-Mind-and-Spirit_28163
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trine, Ralph Waldo
+    birthdate: 1866
+    deathdate: 1958
+    gutenberg_agent_id: '5465'
+    url: http://www.gutenberg.org/2009/agents/5465
+description: 'Title; Contents; Foreword; I The Silent, Subtle Building Forces of Mind
+  and Spirit; II Soul, Mind, BodyThe Subconscious Mind that Interrelates Them; III
+  The Way Mind Through the Subconscious Mind Builds Body; IV The Powerful Aid of the
+  Mind in Rebuilding BodyHow Body Helps Mind; V Thought as a Force in Daily Living;
+  VI Jesus the Supreme Exponent of the Inner Forces and Powers: His People''s Religion
+  and Their Condition; VII The Divine Rule in the Mind and Heart: The Unessentials
+  We DropThe Spirit Abides; VIII If We Seek the Essence of His Revelation, and the
+  Purpose of His Life.'
+gutenberg_issued: '2009-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28163'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Thought'
+- !lcsh 'Mind and body'
+- !lcc 'BF'
+title: The Higher Powers of Mind and Spirit
+url: http://www.gutenberg.org/ebooks/28163
